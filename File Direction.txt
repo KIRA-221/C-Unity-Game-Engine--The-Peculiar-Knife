@@ -1,0 +1,4 @@
+Direction:
+1.Peculiar Knife Game:This folder conatains Game.
+2.Peculiar Knife Project Files:This Folder contains Project files including Source code.
+3.Information:This folder conatains information about the project.
